@@ -15,7 +15,7 @@ Fjern valgene som ikke er relevant.
 ## Sjekkliste
 
 - [ ] Oppdatere readme hvis nødvendig
-- [ ] Lastet opp screen shot, hvis frontendoppgave
+- [ ] Lastet opp screenshot, hvis frontendoppgave
 - [ ] Koden min følger standard for kodestil i prosjektet
 - [ ] Kode endringer er verifisert med unit, og/eller integrasjonstester
 - [ ] Mine endringer introduserer ingen nye warnings
