@@ -8,7 +8,7 @@ Relatert jira issue: #ITAS...
 
 Fjern valgene som ikke er relevant.
 
-- [ ] Bug fiks (ikke breacking change)
+- [ ] Bugfiks (ikke breacking change)
 - [ ] Ny feature (ikke breaking change)
 - [ ] Breaking change (bug, eller feature som brekker avhengigheter)
 
@@ -16,7 +16,7 @@ Fjern valgene som ikke er relevant.
 
 - [ ] Oppdatere readme hvis nødvendig
 - [ ] Lastet opp screen shot, hvis frontendoppgave
-- [ ] Koden min følger standard for kode stil i prosjektet
+- [ ] Koden min følger standard for kodestil i prosjektet
 - [ ] Kode endringer er verifisert med unit, og/eller integrasjonstester
 - [ ] Mine endringer introduserer ingen nye warnings
 - [ ] Jeg har undersøkt at jeg ikke brekker komponent, eller andre avhengige komponenter uten tiltak
